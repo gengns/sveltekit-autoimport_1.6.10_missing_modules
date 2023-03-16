@@ -3,7 +3,7 @@
 <script>
   // import { onMount } from 'svelte'
 
-  /* Un comment next lines to see fly and vaadin-button working properly */
+  /* Uncomment next lines to see fly and vaadin-button working properly */
   // import { fly } from 'svelte/transition'
   // import '@vaadin/button'
 

@@ -1,6 +1,8 @@
-# sveltekit-autoimport issue DIS
+# sveltekit-autoimport issue
 
-Can't use 'svelte/transitions' and 'vaadin' with auto import.
+Can't use [svelte/transitions](https://svelte.dev/tutorial/in-and-out) and
+[vaadin](https://github.com/vaadin/web-components) with
+[sveltekit-autoimport](https://www.npmjs.com/package/sveltekit-autoimport).
 
 **vite.config.js**
 ```js
@@ -18,7 +20,8 @@ Minimal reproducible example in a temporary repository.
 
 ## Recommended IDE Setup
 
-[VS Codium](https://vscodium.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+[VS Codium](https://vscodium.com/) +
+[Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
 
 ## Get started
 
